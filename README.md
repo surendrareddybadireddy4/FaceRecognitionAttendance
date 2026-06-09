@@ -1,4 +1,4 @@
-# FaceRecognitionAttendance
+
 # Face Recognition Attendance System
 
 ## Overview
